@@ -16,7 +16,7 @@ Automation: Set schedules for appliances to operate automatically based on time 
 Sensor Integration: Incorporate temperature, humidity, and motion sensors for dynamic control. For example, lights can turn on when motion is detected.
 Notification Alerts: Receive alerts for events like high temperature, door openings, or unusual motion detection.
 
-![Home Automation Diagram](HomeAutomation.png)
+![Home Automation Diagram]("C:\Users\Yogesh Budhalkar\OneDrive\IOT_PROJECTS\Home Automation with pushbutton (Task-2)\HomeAutomation.png")
 
 
 Technologies Used:
