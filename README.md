@@ -16,6 +16,9 @@ Automation: Set schedules for appliances to operate automatically based on time 
 Sensor Integration: Incorporate temperature, humidity, and motion sensors for dynamic control. For example, lights can turn on when motion is detected.
 Notification Alerts: Receive alerts for events like high temperature, door openings, or unusual motion detection.
 
+![Home Automation Diagram](HomeAutomation.png)
+
+
 Technologies Used:
 ESP32: A microcontroller with built-in Wi-Fi and Bluetooth, serving as the main controller.
 Blynk/Custom App: A mobile app interface for controlling and monitoring the system.
