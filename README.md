@@ -1,9 +1,9 @@
-Name:    Yogesh Prabhakar Budhalkar
-Company: CODTECH IT SOLUTIONS
-ID:      CT08DS344
-Domain:  Embedded Systems
-Duration: December to January 2025
-Mentor:   SRAVANI GOUNI
+**Name:**    Yogesh Prabhakar Budhalkar
+**Company:** CODTECH IT SOLUTIONS
+**ID:**      CT08DS344
+**Domain:**  Embedded Systems
+**Duration:** December to January 2025
+**Mentor:**   SRAVANI GOUNI
 
 Home Automation System Using ESP32
 
